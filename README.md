@@ -18,7 +18,7 @@ No providers.
 
 | Name | Source | Version |
 |------|--------|---------|
-| <a name="module_main"></a> [main](#module\_main) | github.com/grem11n/terraform-aws-vpc-peering | v4.1.0 |
+| <a name="module_main"></a> [main](#module\_main) | github.com/grem11n/terraform-aws-vpc-peering | v5.1.0 |
 
 ## Resources
 
