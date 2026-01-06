@@ -13,7 +13,7 @@
 // limitations under the License.
 
 module "main" {
-  source = "github.com/grem11n/terraform-aws-vpc-peering?ref=v6.0.0"
+  source = "github.com/grem11n/terraform-aws-vpc-peering?ref=v8.0.0"
 
   providers = {
     aws.this = aws.this

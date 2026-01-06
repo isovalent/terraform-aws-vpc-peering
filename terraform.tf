@@ -15,7 +15,7 @@
 terraform {
   required_providers {
     aws = {
-      version = ">= 4.31.0"
+      version = ">= 6"
     }
   }
 }
