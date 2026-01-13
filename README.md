@@ -7,7 +7,7 @@ An opinionated Terraform module that can be used to create and manage a peering 
 
 | Name | Version |
 |------|---------|
-| <a name="requirement_aws"></a> [aws](#requirement\_aws) | >= 4.31.0 |
+| <a name="requirement_aws"></a> [aws](#requirement\_aws) | >= 6 |
 
 ## Providers
 
@@ -17,7 +17,7 @@ No providers.
 
 | Name | Source | Version |
 |------|--------|---------|
-| <a name="module_main"></a> [main](#module\_main) | github.com/grem11n/terraform-aws-vpc-peering | v6.0.0 |
+| <a name="module_main"></a> [main](#module\_main) | github.com/grem11n/terraform-aws-vpc-peering | v8.0.0 |
 
 ## Resources
 
